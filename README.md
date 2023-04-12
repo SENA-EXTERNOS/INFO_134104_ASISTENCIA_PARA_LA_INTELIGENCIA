@@ -2,6 +2,6 @@
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/ECORED-BASE-INFO-2021/](https://ecored-sena.github.io/ECORED-BASE-INFO-2021/)
+[https://sena-externos.github.io/INFO_134104_ASISTENCIA_PARA_LA_INTELIGENCIA/](https://sena-externos.github.io/INFO_134104_ASISTENCIA_PARA_LA_INTELIGENCIA/)
 
 #
